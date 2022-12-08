@@ -7,7 +7,7 @@
 
 <div align="center">
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>
-</div> 
+</div>
 
 <h3 align="center"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> Tech & Tools</h3>
 
@@ -98,18 +98,18 @@
 </div> 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/>
-</div> 
+</div>
 
 <div align="center">
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider2.png" alt="divider"/>
 </div>    
 <div align="center">
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/portfolio.png" alt="Portfolio"/>
-</div> 
+</div>
 
 <div align="center">
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>
-</div> 
+</div>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=naruhitokaide&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
 <br/>
@@ -121,20 +121,7 @@
     <img src = "https://github-readme-streak-stats.herokuapp.com?user=naruhitokaide&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
 </p>
 
-<p align="center">
-  <a href="mailto:naruhitokaide@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/wDpwy4t21eVg" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/naruhitokaide" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://naruhito-kaide.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
-  
-</p>
-
 <h2 align="center"> Thanks for visiting my profile. </h2>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-
-
